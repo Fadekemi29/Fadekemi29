@@ -3,10 +3,6 @@
   <img src="https://avatars.githubusercontent.com/u/188168224?v=4" alt="Profile Picture" width="150" />
 </p>
 
-<h1 align="center">Hi, I'm Fadekemi</h1>
-
-<h2 align="center">Data Analyst</h2>
-
 ## Hi there, I'm Fadekemi 👋
 
 <div align="center">
@@ -25,12 +21,13 @@ Skilled in Python, SQL, Power BI, Tableau, and Excel for data analysis, visualiz
 Seeking opportunities to leverage analytical expertise and scientific insight in a data-driven role to deliver measurable impact.
 
 
+
 ### [🏆 Check Out My Full Portfolio Website](https://fadekemi29.github.io/)
 
 
 ## 🛠 Skills & Tools
 
-#### Data Analysis & Visualization
+### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
@@ -45,7 +42,7 @@ Seeking opportunities to leverage analytical expertise and scientific insight in
   <img src="https://img.shields.io/badge/SQL-e1ad21?style=for-the-badge&logo=sql&logoColor=White"/>
 </p>
 
-#### Business Intelligence & Analytics
+### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
