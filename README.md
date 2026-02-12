@@ -1,12 +1,10 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/188168224?v=4" 
        alt="Profile Picture" 
-       width="150" 
-       style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15);" />
+       width="150" />
 </p>
 
-<h1 align="center">Hi, I'm Fadekemi</h1>
-<h3 align="center">Data Analyst | Insight‑Driven Problem Solver</h3>
+
 
 <h1 align="center">Hi, I'm Fadekemi</h1>
 <h3 align="center">Data Analyst | Insight‑Driven Problem Solver</h3>
@@ -81,8 +79,6 @@ Seeking opportunities to leverage analytical expertise and scientific insight in
 <p>
   <img src="https://img.shields.io/badge/Windows-181717?style=for-the-badge&logo=windows">
 </p>
-
-
 
 
 
