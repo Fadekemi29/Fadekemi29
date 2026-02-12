@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/188168224?v=4" 
-       alt="Profile Picture" 
-       width="150" />
+  <img src="https://avatars.githubusercontent.com/u/188168224?v=4" width="150" alt="Profile Picture">
 </p>
 
 
