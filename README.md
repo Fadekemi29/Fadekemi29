@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/188168224?v=4" width="150" alt="Profile Picture">
+</p>
+
+
 <h1 align="center">Hi, I'm Fadekemi Adefemi 👋 </h1>
 <h3 align="center">Data Analyst | Insight‑Driven Problem Solver</h3>
 
