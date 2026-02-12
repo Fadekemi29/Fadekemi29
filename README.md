@@ -1,20 +1,39 @@
-<!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/188168224?v=4" alt="Profile Picture" width="150" />
+  <img src="https://avatars.githubusercontent.com/u/188168224?v=4" 
+       alt="Profile Picture" 
+       width="150" 
+       style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15);" />
 </p>
 
-## Hi there, I'm Fadekemi 👋
+<h1 align="center">Hi, I'm Fadekemi</h1>
+<h3 align="center">Data Analyst | Insight‑Driven Problem Solver</h3>
+
+<h1 align="center">Hi, I'm Fadekemi</h1>
+<h3 align="center">Data Analyst | Insight‑Driven Problem Solver</h3>
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
 </div>
 
-## About
+
+<p align="center">
+<a href="https://www.linkedin.com/in/fadekemi01">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://x.com/fadekemiade2">
+<img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=twitter" />
+</a>
+<a href="mailto:fadekemiadefemi22@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
+
+## 🚀 About Me 
 <p align="center">
 </p>
 I'm a meticulous and analytical data professional with a strong scientific foundation in Chemistry and firsthand experience in data management across healthcare, education, and administrative sectors. 
+
 
 Skilled in Python, SQL, Power BI, Tableau, and Excel for data analysis, visualization, and reporting. Experienced in translating raw data into actionable insights to support operational decision-making. Adept at stakeholder communication, cross-functional collaboration, and applying structured problem-solving to real-world challenges. 
 
@@ -64,18 +83,6 @@ Seeking opportunities to leverage analytical expertise and scientific insight in
 </p>
 
 
-## Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/fadekemi01">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://x.com/fadekemiade2">
-<img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=twitter" />
-</a>
-<a href="mailto:fadekemiadefemi22@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
-</a>
-</p>
 
 
 
