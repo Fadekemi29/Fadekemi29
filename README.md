@@ -29,8 +29,10 @@ Skilled in Python, SQL, Power BI, Tableau, and Excel for data analysis, visualiz
 Seeking opportunities to leverage analytical expertise and scientific insight in a data-driven role to deliver measurable impact.
 
 
+👉 **[Visit My Portfolio Website](https://Fadekemi29.github.io/)**  
 
-### [🏆 Check Out My Full Portfolio Website](https://Fadekemi29.github.io/)
+🔗 Repository: https://github.com/Fadekemi29/Fadekemi29.github.io
+
 
 ## 🛠 Skills & Tools
 
