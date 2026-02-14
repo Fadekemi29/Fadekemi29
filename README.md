@@ -30,7 +30,7 @@ Seeking opportunities to leverage analytical expertise and scientific insight in
 
 
 
-### [🏆 Check Out My Full Portfolio Website](https://fadekemi29.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/Fadekemi29/Fadekemi29.github.io/)
 
 
 ## 🛠 Skills & Tools
